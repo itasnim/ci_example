@@ -7,8 +7,7 @@ public function getNames(){
 		array("fname"=>'Lisa', "lname"=>'Simpson'),
 		array("fname"=>'Ann', "lname"=>'Mayer')
 		);
-}
-public function getNames(){
 	return $names;
 }
+
 }
